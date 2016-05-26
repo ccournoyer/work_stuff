@@ -10,8 +10,8 @@
     <h2>Études et diplômes</h2>
       <table>
         <tr>
-          <td class="cellYear"></td>
-          <td class="cellInfo"></td>
+          <td class="cellYear">annees</td>
+          <td class="cellInfo">dip, ecoHosp, ville</td>
         </tr>
         <tr>
           <td class="cellYear"></td>
