@@ -455,6 +455,7 @@
   <h1>Annexe B : Conférences sur invitation, colloques, congrès</h1>
         <p>(<span class="undl">étudiant(e)s dirigées</span>)</p>
     <h2>Conférences sur invitation</h2>
+    <div class="textList">
       <p></p>
       <p></p>
       <p></p>
@@ -463,6 +464,7 @@
       <p></p>
       <p></p>
       <p></p>
+    </div>
     <h2>Colloques, congrès</h2>
       <p></p>
       <p></p>
@@ -645,7 +647,7 @@
   <h1>Annexe D : Articles dans des revues avec comité de lectures et abrégés publiés</h1>
         <p>(<span class="undl">étudiant(e)s dirigées</span>)</p>
     <h2>Articles publiés</h2>
-    <div text-indent="10px">
+    <div class="textList">
       <p></p>
       <p></p>
       <p></p>
@@ -656,7 +658,7 @@
       <p></p>
     </div>
     <h2>Abrégés publiés</h2>
-    <div text-indent="10px">
+    <div class="textList">
       <p></p>
       <p></p>
       <p></p>
@@ -670,19 +672,19 @@
 <div>
   <h1>Annexe E : Chapitres de livres, rapports et thèse publiés</h1>
     <h2>Chapitre de livres</h2>
-    <div text-indent="10px">
+    <div class="textList">
       <p></p>
       <p></p>
       <p></p>
       <p></p>
     </div>
     <h2>Rapports</h2>
-    <div text-indent="10px">
+    <div class="textList">
       <p></p>
       <p></p>
     </div>
     <h2>Mémoîre de maîtrise</h2>
-    <div text-indent="10px">
+    <div class="textList">
       <p></p>
       <p></p>
     </div>
@@ -714,6 +716,11 @@ h2 {
 
 .SC {
   font-weight: bold;
+}
+
+.textList {
+  margin-left=2em
+  text-indent=-2em
 }
 
 .undl {
