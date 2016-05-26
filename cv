@@ -1,32 +1,721 @@
-<div id="infoPerso">
+<div>
   <h1>Informations personnelles</h1>
-    <ul>
-      <li>Domicile : </li>
-      <li>Téléphone : </li>
-      <li>Cellulaire : </li>
-      <li>Corporation professionnelle : </li>
-      <li>Bilingue : </li>
-    </ul>
-  <h2>Études et diplômes</h2>
+      <ul>
+        <li>Domicile : </li>
+        <li>Téléphone : </li>
+        <li>Cellulaire : </li>
+        <li>Corporation professionnelle : </li>
+        <li>Bilingue : </li>
+      </ul>
+    <h2>Études et diplômes</h2>
+      <table>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+      </table>
+    <h2>Carrière académique et professionnelle</h2>
+      <table>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+      </table>
+    <h2>Carrière académique et professionnelle</h2>
+      <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ul>
+    <h2>Prix, distinctions et bourses</h2>
+      <table>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+      </table>
+</div>
+<div id="enseignement">
+  <h1>Enseignement</h1>
+      <p></p>
+    <h2>1er cycle</h2>
+      <p></p>
+    <h2>2e et 3e cycles</h2>
+      <p></p>
+    <h2>Direction d'étudiants aux cycles supérieurs</h2>
+      <p></p>
+</div>
+<div id="recherche">
+  <h1>Recherche</h1>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+    <h2>Publications</h2>
+      <p></p>
+      <p></p>
+</div>
+<div id="rayonnement">
+  <h1>Activités de rayonnement</h1>
+    <h2>Conférences sur invitation et conférences scientifiques avec sélection avec comités de pairs</h1>
+      <p></p>
+      <p></p>
+    <h2>Comités hors Université de Montréal</h2>
+      <p></p>
+      <p></p>
+      <p></p>
+</div>
+<div id="admin">
+  <h1>Activités administratives</h1>
+    <h2>Direction d'un réseau de recherche</h2>
+      <p></p>
+      <p></p>
+    <h2>Organisations de congrès - conférences</h2>
+      <p></p>
+    <h2>Comités Faculté des Sciences infirmières</h2>
+      <table>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+      </table>
+    <h2>Comités Université de Montréal</h2>
+      <table>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+        <tr>
+          <td class="cellYear"></td>
+          <td class="cellInfo"></td>
+        </tr>
+      </table>
+</div>
+<div>
+  <h1>Annexe A : Direction d'étudiant(e)s aux cycles supérieurs</h1>
+        <p>(codirection si indiqué et du plus récent au plus ancien par niveau d’étude)</p>
+      <table>
+        <tr>
+          <th>Niveau</th>
+          <th>Année</th>
+          <th>Nom</th>
+          <th>Titre</th>
+          <th>Bourse</th>
+        </tr>
+        <tr>
+          <td>Post-doc</td>
+          <td>2005-2006</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+    <h2>PhD</h2>
+        <tr>
+          <td>PhD<br/>Co-direction</td>
+          <td>2013-..</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>PhD</td>
+          <td>2011-..</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>PhD</td>
+          <td>2009-..</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>PhD<br/>Co-direction</td>
+          <td>2005-2012</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>PhD<br/>Transfert de direction en 2004</td>
+          <td>2002-2004</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>PhD<br/>Co-direction</td>
+          <td>2001-2010</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+    <h2>Maîtrise</h2>
+        <tr>
+          <td>MSc<br/>Mémoire</td>
+          <td>2015-..</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Mémoire</td>
+          <td>2014-..</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Mémoire</td>
+          <td>2014-..</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Mémoire</td>
+          <td>2014-..</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Stage</td>
+          <td>2013-..</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Stage</td>
+          <td>2013-..</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Stage</td>
+          <td>2013-..</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Travail dirigé</td>
+          <td>2013-..</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Stage</td>
+          <td>2012-2014</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Stage</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Stage</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Mémoire</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Stage</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Stage</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Stage</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>DESS</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Mémoire</td>
+          <td>2007-2012</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Mémoire</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Stage</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Stage</td>
+          <td>2005-2007</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Stage</td>
+          <td>2005-2007</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Stage</td>
+          <td>2004-2006</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Mémoire</td>
+          <td>2003-2006</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Stage</td>
+          <td>2003-2005</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Mémoire</td>
+          <td>2002-2009</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Stage</td>
+          <td>2002-2005</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>MSc<br/>Mémoire</td>
+          <td>2002-2004</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+    </table>
+</div>
+<div>
+  <h1>Annexe B : Conférences sur invitation, colloques, congrès</h1>
+        <p>(<span class="undl">étudiant(e)s dirigées</span>)</p>
+    <h2>Conférences sur invitation</h2>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+    <h2>Colloques, congrès</h2>
+      <p></p>
+      <p></p>
+      <p></p>
+</div>
+<div>
+  <h1>Annexe C : Projets de recherche subventionnés</h1>
     <table>
       <tr>
-        <td class="cellYear"></td>
-        <td class="cellInfo"></td>
+        <th>Années</th>
+        <th>Titres et chercheurs</th>
+        <th>Organismes</th>
+        <th>Montants</th>
       </tr>
       <tr>
-        <td class="cellYear"></td>
-        <td class="cellInfo"></td>
+        <td>2015-2017</td>
+        <td>
+          <p></p>
+          <p><span class="undl">Chercheur principal</span> : </p>
+          <p><span class="undl">Co-chercheurs</span> : </p>
+        </td>
+        <td></td>
+        <td></td>
       </tr>
       <tr>
-        <td class="cellYear"></td>
-        <td class="cellInfo"></td>
+        <td>2014-2019</td>
+        <td>
+          <p></p>
+          <p><span class="undl">Chercheurs principaux</span> : </p>
+          <p><span class="undl">Co-chercheurs</span> : </p>
+        </td>
+        <td></td>
+        <td></td>
       </tr>
       <tr>
-        <td class="cellYear"></td>
-        <td class="cellInfo"></td>
+        <td>2013-2016</td>
+        <td>
+          <p></p>
+          <p><span class="undl">Chercheurs principaux</span> : </p>
+          <p><span class="undl">Co-chercheurs</span> : </p>
+        </td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>2013-2015</td>
+        <td>
+          <p></p>
+          <p><span class="undl">Chercheur principal</span> : </p>
+          <p><span class="undl">Co-chercheurs</span> : </p>
+        </td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>2012-2015</td>
+        <td>
+          <p></p>
+          <p><span class="undl">Chercheur principal</span> : </p>
+          <p><span class="undl">Co-chercheurs</span> : </p>
+        </td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>2011-2013</td>
+        <td>
+          <p></p>
+          <p><span class="undl">Chercheurs principaux</span> : </p>
+          <p><span class="undl">Co-chercheurs</span> : </p>
+        </td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>2010-2016</td>
+        <td>
+          <p></p>
+          <p><span class="undl">Chercheur principal</span> : </p>
+          <p><span class="undl">Co-chercheurs</span> : </p>
+        </td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>2010-2011</td>
+        <td>
+          <p></p>
+          <p></p>
+        </td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>2008-2012</td>
+        <td>
+          <p></p>
+          <p><span class="undl">Co-directrices</span> : </p>
+        </td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>2008-2009</td>
+        <td>
+          <p></p>
+          <p><span class="undl">Chercheur principal</span> : </p>
+          <p><span class="undl">Co-chercheurs</span> : </p>
+        </td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>2007-2010</td>
+        <td>
+          <p></p>
+          <p><span class="undl">Chercheurs principaux</span> : </p>
+          <p><span class="undl">Co-chercheurs</span> : </p>
+        </td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>2005-2006</td>
+        <td>
+          <p></p>
+          <p><span class="undl">Chercheurs principaux</span> : </p>
+          <p><span class="undl">Co-chercheurs</span> : </p>
+        </td>
+        <td></td>
+        <td></td>
+      </tr>
+      
+      <tr>
+        <td>2004-2005</td>
+        <td>
+          <p></p>
+          <p><span class="undl">Chercheur principal</span> : </p>
+          <p><span class="undl">Co-chercheurs</span> : </p>
+        </td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>2004-2005</td>
+        <td>
+          <p></p>
+          <p><span class="undl">Chercheur principal</span> : </p>
+          <p><span class="undl">Co-chercheurs</span> : </p>
+        </td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>2004-2007</td>
+        <td>
+          <p></p>
+          <p><span class="undl">Chercheurs principaux</span> : </p>
+          <p><span class="undl">Co-chercheurs</span> : </p>
+        </td>
+        <td>
+          <p></p>
+          <p></p>
+          <p></p>
+        </td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>2001-2007</td>
+        <td>
+          <p></p>
+          <p><span class="undl">Subvention individuelle</span> : </p>
+        </td>
+        <td></td>
+        <td></td>
       </tr>
     </table>
-    <ul>
-    </ul>
-  <h2>Carrière académique et professionnelle</h2>
 </div>
+<div>
+  <h1>Annexe D : Articles dans des revues avec comité de lectures et abrégés publiés</h1>
+        <p>(<span class="undl">étudiant(e)s dirigées</span>)</p>
+    <h2>Articles publiés</h2>
+    <div text-indent="10px">
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+    </div>
+    <h2>Abrégés publiés</h2>
+    <div text-indent="10px">
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+    </div>
+</div>
+<div>
+  <h1>Annexe E : Chapitres de livres, rapports et thèse publiés</h1>
+    <h2>Chapitre de livres</h2>
+    <div text-indent="10px">
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+    </div>
+    <h2>Rapports</h2>
+    <div text-indent="10px">
+      <p></p>
+      <p></p>
+    </div>
+    <h2>Mémoîre de maîtrise</h2>
+    <div text-indent="10px">
+      <p></p>
+      <p></p>
+    </div>
+    <h2>Thèse de doctorat</h2>
+    <div text-indent="10px">
+      <p></p>
+      <p></p>
+    </div>
+</div>
+  
+////style
+
+h1 {
+  border-bottom: 200px;
+}
+
+
+h2 {
+  border-bottom: 200px;
+}
+
+.cellInfo {
+  colspan: 3;
+}
+
+.cellYear {
+  colspan: 1;
+}
+
+.SC {
+  font-weight: bold;
+}
+
+.undl {
+  text-decoration: underline;
+}
